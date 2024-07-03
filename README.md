@@ -7,6 +7,7 @@ Data Analysis: Exploratory data analysis (EDA) of maize yield data to understand
 Machine Learning Models: Implementation of regression models including Random Forests, Gradient Boosting, and Linear Models to predict maize yield.
 Cross-Validation: Use of Random Cross-Validation (RCV) and Spatial Cross-Validation (SCV) to evaluate model performance.
 Interpretability: Application of Interpretable Machine Learning (IML) methods like Partial Dependence Plots (PDP) and Accumulated Local Effects (ALE) plots to understand model predictions.
+
 Table of Contents
 Installation
 Data
